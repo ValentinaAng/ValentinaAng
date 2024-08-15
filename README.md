@@ -1,6 +1,6 @@
 👋 Hi, I’m Valentina Angelovska
 
-🚀 Entry-level Data Scientist | Machine Learning Enthusiast | Applied Physics Engineer 
+🚀 Junior Data Scientist | Junior Machine Learning | Applied Physics Engineer 
 
 🌱  I am enthusiastic about continuous learning and staying updated with the latest advancements in machine learning and AI
 
